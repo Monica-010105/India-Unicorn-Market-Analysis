@@ -1,6 +1,6 @@
 # India Unicorn Market Analysis
 
-Macro-level analysis of India's 99 unicorn startups (2011–2021) using Python, SQL, PostgreSQL and Tableau.
+Macro-level analysis of India's 99 unicorn startups (2011–2021) using Python, SQL and PostgreSQL.
 
 ## Project Overview
 This project investigates India's unicorn startup landscape — businesses that have crossed a $1 billion valuation. Through an end-to-end analytics pipeline, I examine what the rapid rise of Indian unicorns tells us about sectoral trends, geographic concentration, investor dominance, funding behaviour, and the structural health of India's startup economy.
