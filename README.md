@@ -79,9 +79,6 @@ City, investor, and funding data was enriched by merging both datasets using fuz
 - **Investor Analysis** — most active investors, portfolio concentration
 - **Funding & Valuation** — capital efficiency, speed to unicorn, profitability correlation
 
-### Phase 4 — Visualisation (Tableau Public)
-Built a 7-chart interactive dashboard with cross-filtering across all key dimensions.
-
 ## Analysis & Key Findings
 
 ### 1. The Unicorn Boom — Timeline
