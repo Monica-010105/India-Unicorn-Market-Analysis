@@ -1,0 +1,100 @@
+startup_name,industry,founding_year,unicorn_entry_year,profit_loss_fy22,current_valuation,acquisitions,status,valuation_million_usd,profit_loss_million_usd,industry_clean,status_clean,years_to_unicorn,is_profitable,city,investors,total_raised,investors_count,total_raised_million_usd
+Perfios,SaaS (Fintech),2008,2024,$0.94 Million,$1 Billion,3.0,Private ,1000.0,0.94,Fintech & Financial Services,Private,16,Profitable,,,,,
+Krutrim,Research Services (AI),2023,2024,,$1 Billion,,Private ,1000.0,,AI & Research,Private,1,Unknown,,,,,
+Zepto,Quick Commerce,2021,2023,-$47.1 Million,$1.4 Billion,,Private ,1400.0,-47.1,Other,Private,2,Loss-Making,,,,,
+Molbio Diagnostics,HealthTech (MedTech),2010,2022,,$1.5 Billion,1.0,Private ,1500.0,,Healthtech,Private,12,Unknown,,,,,
+Tata 1mg,HealthTech,2015,2022,-$65 Million,$1.25 Billion,,Acquired ,1250.0,-65.0,Healthtech,Acquired,7,Loss-Making,,,,,
+Shiprocket,Logistics,2017,2022,-$11.67 Million,$1.3 Billion,5.0,Private ,1300.0,-11.67,Logistics,Private,5,Loss-Making,,,,,
+5ire,Fintech,2021,2022,,$1.5 Billion,1.0,Private ,1500.0,,Fintech & Financial Services,Private,1,Unknown,,,,,
+OneCard,Fintech,2018,2022,-$22.8 Million,$1.4 Billion,0.0,Private ,1400.0,-22.8,Fintech & Financial Services,Private,4,Loss-Making,,,,,
+PhysicsWallah,Edtech,2016,2022,$16.4 Million,$1.1 Billion,6.0,Private ,1100.0,16.4,Edtech,Private,6,Profitable,,,,,
+LeadSquared,SaaS CRM,2011,2022,-$7.7 Million,$1 Billion,,Private ,1000.0,-7.7,SaaS & Enterprise Tech,Private,11,Loss-Making,,,,,
+ElasticRun,E-commerce Logistics,2015,2022,-$45.1 Million,$1.5 Billion,,Private ,1500.0,-45.1,E-commerce,Private,7,Loss-Making,Pune,"Kalaari Capital, Norwest Venture Partners, Prosus Ventures",$432.11M,9.0,432.11
+LEAD,Edtech,2012,2022,-$49.6 Million,$1.1 Billion,2.0,Private ,1100.0,-49.6,Edtech,Private,10,Loss-Making,,,,,
+Purplle,E-commerce Personal Care,2012,2022,-$25 Million,$1.1 Billion,1.0,Private ,1100.0,-25.0,E-commerce,Private,10,Loss-Making,,,,,
+DealShare,E-commerce,2018,2022,-$53.8 Million,$1.7 Billion,0.0,Private ,1700.0,-53.8,E-commerce,Private,4,Loss-Making,Bengaluru,"Alpha Wave Global, Matrix Partners India, Tiger Global Management",$391.52M,19.0,391.52
+Xpressbees,E-commerce Logistics,2015,2022,-$3.39 Million,$1.2 Billion,1.0,Private ,1200.0,-3.39,E-commerce,Private,7,Loss-Making,Pune,"Norwest Venture Partners, Investcorp, Blackstone",$472.94M,13.0,472.94
+Open,Fintech,2017,2022,-$20.9 Million,$1 Billion,2.0,Private ,1000.0,-20.9,Fintech & Financial Services,Private,5,Loss-Making,,,,,
+Games24x7,Gaming,2006,2022,-$39 Million,$2.5 Billion,0.0,Private ,2500.0,-39.0,Media & Entertainment,Private,16,Loss-Making,,,,,
+Amagi,Media (Advertising),2008,2022,,$1.4 Billion,1.0,Private ,1400.0,,Media & Entertainment,Private,14,Unknown,,,,,
+Fractal,SaaS Analytics,2000,2022,-$18.4 Billion,$1 Billion,7.0,Private ,1000.0,-18400.0,SaaS & Enterprise Tech,Private,22,Loss-Making,,,,,
+Darwinbox,SaaS HR,2015,2022,-$7.6 Million,$1 Billion,0.0,Private ,1000.0,-7.6,SaaS & Enterprise Tech,Private,7,Loss-Making,Hyderabad,"Lightspeed India Partners, Sequoia Capital India, Endiya Partners",$106.7M,10.0,106.7
+Livspace,E-commerce Interior Design,2014,2022,-$51 Million,$1.2 Billion,4.0,Private ,1200.0,-51.0,E-commerce,Private,8,Loss-Making,Bengaluru,"Jungle Ventures, Helion Venture Partners, INGKA Investments",$371.69M,21.0,371.69
+Uniphore,SaaS Conversational Automation,2008,2022,,$2.5 Billion,5.0,Private ,2500.0,,SaaS & Enterprise Tech,Private,14,Unknown,,,,,
+Hasura,SaaS Programming Tools,2017,2022,,$1 Billion,0.0,Private ,1000.0,,SaaS & Enterprise Tech,Private,5,Unknown,Bengaluru,"Nexus Venture Partners, Vertex Ventures, STRIVE",$136.51M,11.0,136.51
+Yubi (Formerly CredAvenue),Fintech,2017,2022,-$7 million,$1.5 Billion,3.0,Private ,1500.0,,Fintech & Financial Services,Private,5,Unknown,,,,,
+CommerceIQ,E-commerce Management Platform,2012,2022,,$1 Billion,0.0,Private ,1000.0,,E-commerce,Private,10,Unknown,,,,,
+Oxyzo,Fintech,2016,2022,$8.6 Million,$1 Billion,0.0,Private ,1000.0,8.6,Fintech & Financial Services,Private,6,Profitable,,,,,
+Moglix,E-commerce,2015,2021,-$2.5 Million,$2.6 Billion,2.0,Private ,2600.0,-2.5,E-commerce,Private,6,Loss-Making,,,,,
+NoBroker,PropTech,2014,2021,,$1 Billion,1.0,Private ,1000.0,,PropTech,Private,7,Unknown,Bengaluru,"General Atlantic, Elevation Capital, BEENEXT",$371.4M,14.0,371.4
+MobiKwik,Fintech,2009,2021,-$16 Million,$0.9 Billion,1.0,Private ,900.0,-16.0,Fintech & Financial Services,Private,12,Loss-Making,Gurgaon,"Sequoia Capital India, The Times Group, GMO VenturePartners",$248.96M,31.0,248.96
+Spinny,Automotive (E-commerce),2015,2021,-$61.2 Million,$1.75 Billion,3.0,Private ,1750.0,-61.2,E-commerce,Private,6,Loss-Making,Gurgaon,"General Catalyst, Eleation Capital, Avenir Growth Capital",$515.9M,20.0,515.9
+MPL,ESports,2018,2021,-$56 Million,$2.3 Billion,3.0,Private ,2300.0,-56.0,Media & Entertainment,Private,3,Loss-Making,,,,,
+Acko,Insurtech,2016,2021,-$45.1 Million,$1.1 Billion,2.0,Private ,1100.0,-45.1,Fintech & Financial Services,Private,5,Loss-Making,,,,,
+ShareChat,Media & Entertainment,2015,2021,-$373 Million,$5 Billion,6.0,Private ,5000.0,-373.0,Media & Entertainment,Private,6,Loss-Making,Bengaluru,"India Quotient, Elevation Capital, Lightspeed Venture Partners",$1.277B,22.0,1277.0
+Eruditus,Edtech,2010,2021,-$386.8 Million,$3.2 Billion,1.0,Private ,3200.0,-386.8,Edtech,Private,11,Loss-Making,,,,,
+upGrad,Edtech,2015,2021,-$78.3 Million,$2.25 Billion,14.0,Private ,2250.0,-78.3,Edtech,Private,6,Loss-Making,Mumbai,"Qualcomm Ventures, Accel, Canaan Partners",$361.23M,5.0,361.23
+Apna,Marketplace Employment,2019,2021,-$14 Million,$1.1 Billion,0.0,Private ,1100.0,-14.0,Other,Private,2,Loss-Making,Bengaluru,"Sequoia Capital India, Rocketship.vc, Lightspeed India Partners",$192.5M,9.0,192.5
+Urban Company,Home Services,2014,2021,-$64 Million,$2.8 Billion,3.0,Private ,2800.0,-64.0,Other,Private,7,Loss-Making,Gurgaon,"VY Capital, Accel, Elevation Capital",$441.24M,17.0,441.24
+BharatPe,Fintech Payments,2018,2021,-$702 Million,$2.9 Billion,2.0,Private ,2900.0,-702.0,Fintech & Financial Services,Private,3,Loss-Making,New Delhi,"Insight Partners, Sequoia Capital India, BEENEXT",$702.25M,22.0,702.25
+CarDekho,E-commerce Automotives,2007,2021,-$29 Million,$1.2 Billion,3.0,Private ,1200.0,-29.0,E-commerce,Private,14,Loss-Making,Jaipur,"Sequoia Capital India, Hillhouse Capital Management, Sunley House Capital Management",$536.1M,22.0,536.1
+Licious,E-commerce Meat Products,2015,2021,-$106 Million,$1.5 Billion,0.0,Private ,1500.0,-106.0,E-commerce,Private,6,Loss-Making,Bengaluru,"3one4 Capital Partners, Bertelsmann India Investments, Vertex Ventures SE Asia",$338M,21.0,338.0
+Zetwerk,Manufacturing,2018,2021,-$10.4 Million,$2.7 Billion,4.0,Private ,2700.0,-10.4,Manufacturing,Private,3,Loss-Making,Bengaluru,"Sequoia Capital India, Kae Capital, Accel",$656.67M,24.0,656.67
+Meesho,E-commerce,2015,2021,-$406 Million,$4.9 Billion,0.0,Private ,4900.0,-406.0,E-commerce,Private,6,Loss-Making,Bengaluru,"Venture Highway, Sequoia Capital India, Prosus Ventures",$1.061B,26.0,1061.0
+Blinkit (ex-Grofers),E-commerce Groceries,2013,2021,-$127 Million,$0.568 Billion,,Acquired ,568.0,-127.0,E-commerce,Acquired,8,Loss-Making,,,,,
+Pristyn Care,Healthtech,2018,2021,,$1.4 Billion,1.0,Private ,1400.0,,Healthtech,Private,3,Unknown,Gurgaon,"Sequoia Capital India, Hummingbird Ventures, Epiq Capital",$176.67M,16.0,176.67
+Vedantu,Edtech,2011,2021,-$87 Million,$1 Billion,3.0,Private ,1000.0,-87.0,Edtech,Private,10,Loss-Making,Bengaluru,"Accel, Tiger Global Management, Omidyar Network",$308.38M,13.0,308.38
+Upstox,Fintech,2010,2021,-$55.5 Million,$3.4 Billion,0.0,Private ,3400.0,-55.5,Fintech & Financial Services,Private,11,Loss-Making,Mumbai,"Tiger Global Management, Kalaari Capital",$54M,4.0,54.0
+Slice,Fintech,2016,2021,-$31 Million,$1.5 Billion,1.0,Private ,1500.0,-31.0,Fintech & Financial Services,Private,5,Loss-Making,Bengaluru,"Gunosy Capital, Blume Ventures, Das Capital",$303.73M,30.0,303.73
+CRED,Financial Technology,2018,2021,-$160 Million,$6.4 Billion,4.0,Private ,6400.0,-160.0,Fintech & Financial Services,Private,3,Loss-Making,Bengaluru,"Tiger Global Management, DST Global, Sequoia Capital India",$613.6M,18.0,613.6
+Cult.fit,Healthtech,2016,2021,-$85 Million,$1.5 Billion,14.0,Private ,1500.0,-85.0,Healthtech,Private,5,Loss-Making,Bengaluru,"Chiratae Ventures, Accel, Kalaari Capital",$679.4M,42.0,679.4
+Mamaearth,E-commerce Personal Care,2016,2021,$2.8 Million,$1.2 Billion,4.0,Private ,1200.0,2.8,E-commerce,Private,5,Profitable,Gurgaon,"Fireside Ventures, Sequoia Capital India, Stellaris Venture Partners",$153.3M,11.0,153.3
+Infra.Market,B2B E-commerce,2016,2021,$28.3 Million,$2.5 Billion,3.0,Private ,2500.0,28.3,E-commerce,Private,5,Profitable,Mumbai,"Accel, Tiger Global Management, Nexus Venture Partners",$381.4M,26.0,381.4
+Five Star Business Finance,Financial Services,1984,2021,,$1.4 Billion,0.0,Listed ,1400.0,,Fintech & Financial Services,Listed,37,Unknown,Chennai,"Sequoia Capital India, Tiger Global Management, Tencent",$459.78M,7.0,459.78
+OfBusiness,Building Materials,2015,2021,$34.4 Million,$4.8 Billion,1.0,Private ,4800.0,34.4,Other,Private,6,Profitable,Gurgaon,"Matrix Partners India, Falcon Edge Capital, SoftBank Group",$855.55M,14.0,855.55
+CoinSwitch Kuber,Cryptocurrencies,2017,2021,,$1.9 Billion,0.0,Private ,1900.0,,Fintech & Financial Services,Private,4,Unknown,Bengaluru,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",$300M,7.0,300.0
+CoinDCX,Cryptocurrency Exchange,2018,2021,$5.1 Million,$2.15 Billion,0.0,Private ,2150.0,5.1,Fintech & Financial Services,Private,3,Profitable,Mumbai,"Polychain Capital, Coinbase Ventures, Jump Capital",$109.4M,17.0,109.4
+BlackBuck,Logistics,2015,2021,-$35 Million,$1.02 Billion,0.0,Private ,1020.0,-35.0,Logistics,Private,6,Loss-Making,Bengaluru,"Accel, Sands Capital, International Finance Corporation",$330.88M,20.0,330.88
+Droom,Marketplace Automotives,2014,2021,-$17 Million,$1.2 Billion,1.0,Private ,1200.0,-17.0,Automotive,Private,7,Loss-Making,,,,,
+PharmEasy,Online Pharmacy,2015,2021,,$5.6 Billion,3.0,Private ,5600.0,,Healthtech,Private,6,Unknown,,,,,
+MyGlamm (Good Glamm Group),Personal Care Marketplace,2015,2021,-$36 Million,$1.2 Billion,7.0,Private ,1200.0,-36.0,Other,Private,6,Loss-Making,,,,,
+Digit Insurance,Insurance,2016,2021,,$4 Billion,1.0,Private ,4000.0,,Fintech & Financial Services,Private,5,Unknown,Bengaluru,"Fairfax Financial Holdings, A91 Partners, TVS Capital",$424.16M,15.0,424.16
+Innovaccer,Healthcare,2014,2021,,$3.2 Billion,0.0,Private ,3200.0,,Healthtech,Private,7,Unknown,,,,,
+Groww,Fintech,2017,2021,-$29.5,$3 Billion,1.0,Private ,3000.0,-29.5,Fintech & Financial Services,Private,4,Loss-Making,Bengaluru,"Tiger Global Management, Sequoia Capital India, Ribbit Capital",$399.89M,17.0,399.89
+Gupshup,Enterprisetech,2004,2021,$7.06 Million,$1.4 Billion,5.0,Private ,1400.0,7.06,SaaS & Enterprise Tech,Private,17,Profitable,,,,,
+Chargebee,Financial Services,2011,2021,$3.9 Million,$3.5 Billion,3.0,Private ,3500.0,3.9,Fintech & Financial Services,Private,10,Profitable,,,,,
+Zeta,Fintech,2015,2021,,$1.5 Billion,0.0,Private ,1500.0,,Fintech & Financial Services,Private,6,Unknown,,,,,
+BrowserStack,Cloud Infrastructure and Software,2011,2021,$12.5 Million,$4 Billion,3.0,Private ,4000.0,12.5,SaaS & Enterprise Tech,Private,10,Profitable,,,,,
+Mohalla Tech (Moj),Software,2015,2021,,$5 Billion,6.0,Private ,5000.0,,SaaS & Enterprise Tech,Private,6,Unknown,,,,,
+Polygon (Formerly Matic Network),Blockchain,2018,2021,,$10 Billion,3.0,Private ,10000.0,,Fintech & Financial Services,Private,3,Unknown,,,,,
+MindTickle,Saas Enterprise Software,2011,2021,$3.5 Million,$1.2 Billion,1.0,Private ,1200.0,3.5,SaaS & Enterprise Tech,Private,10,Profitable,,,,,
+Rebel Foods,E-commerce Food Delivery,2011,2021,-$66.7 Million,$1.4 Billion,1.0,Private ,1400.0,-66.7,E-commerce,Private,10,Loss-Making,Pune,"Sequoia Capital India, Lightbox Ventures, Coatue Management",$495.21M,18.0,495.21
+Mensa Brands,Ecommerce Financial Services,2021,2021,-$12 Million,$1.2 Billion,20.0,Private ,1200.0,-12.0,Fintech & Financial Services,Private,0,Loss-Making,Bengaluru,"Accel, Falcon Edge Capital, Norwest Venture Partners",$228.58M,13.0,228.58
+GlobalBees,E-commerce Retail,2021,2021,-$4.4 Million,$1.1 Billion,11.0,Private ,1100.0,-4.4,E-commerce,Private,0,Loss-Making,New Delhi,"Chiratae Ventures, SoftBank Group, Trifecta Capital",$291.5M,8.0,291.5
+DailyHunt,Media & Entertainment,2007,2020,,$5 Billion,2.0,Private ,5000.0,,Media & Entertainment,Private,13,Unknown,Bengaluru,"Falcon Edge Capital, Omidyar Network, Sequoia Capital India",$868.67M,24.0,868.67
+Unacademy,Edtech,2015,2020,-$357 Million,$3.4 Billion,12.0,Private ,3400.0,-357.0,Edtech,Private,5,Loss-Making,Bengaluru,"Blume Ventures, Nexus Venture Partners, Sequoia Capital India",$875.73M,34.0,875.73
+Cars24,B2C E-commerce,2015,2020,-$31 Million,$3.3 Billion,0.0,Private ,3300.0,-31.0,E-commerce,Private,5,Loss-Making,Gurgaon,"Moore Strategic Ventures, DST Global, Sequoia Capital India",$1.296B,30.0,1296.0
+Glance (Inmobi),Mobile Technology,2019,2020,,$1.7 Billion,2.0,Private ,1700.0,,Other,Private,1,Unknown,,,,,
+RazorPay,Fintech,2014,2020,$1.14 Million,$7.5 Billion,7.0,Private ,7500.0,1.14,Fintech & Financial Services,Private,6,Profitable,Bengaluru,"Sequoia Capital India, Tiger Global Management, Matrix Partners India",$741.62M,24.0,741.62
+Zerodha,Stockbroker,2010,2020,$349.9 Million,$2 Billion,0.0,Private ,2000.0,349.9,Fintech & Financial Services,Private,10,Profitable,,,,,
+PhonePe,Fintech,2015,2020,-$251.6 Million,$12 Billion,6.0,Acquired by Flipkart ,12000.0,-251.6,Fintech & Financial Services,Acquired,5,Loss-Making,,,,,
+FirstCry,E-commerce,2010,2020,$6.39 Million,$3 Billion,2.0,Private ,3000.0,6.39,E-commerce,Private,10,Profitable,Pune,"SoftBank Group, SAIF Partners India, Valiant Capital Partners",$831M,15.0,831.0
+Nykaa,E-commerce,2012,2020,$4.96 Million,$4.44 Billion,6.0,Listed ,4440.0,4.96,E-commerce,Listed,8,Profitable,,,,,
+Pine Labs,Fintech,1998,2020,,$5 Billion,6.0,Private ,5000.0,,Fintech & Financial Services,Private,22,Unknown,Noida,"Sequoia Capital India, Temasek, PayPal Ventures",$1.077B,25.0,1077.0
+HighRadius,Fintech,2006,2020,,$3.1 Billion,0.0,Private ,3100.0,,Fintech & Financial Services,Private,14,Unknown,,,,,
+Verse Innovation,Media & Entertainment,2007,2020,-$320 Million,$5 Billion,3.0,Private ,5000.0,-320.0,Media & Entertainment,Private,13,Loss-Making,,,,,
+Zenoti,Saas Spa and Salon Services,2010,2020,,$1.5 Billion,1.0,Private ,1500.0,,SaaS & Enterprise Tech,Private,10,Unknown,,,,,
+Postman,Saas API Development and Testing,2014,2020,,$5.6 Billion,0.0,Private ,5600.0,,SaaS & Enterprise Tech,Private,6,Unknown,,,,,
+Delhivery,E-commerce Logistics Services,2011,2019,-$128 Million,$3.27 Billion,5.0,Listed ,3270.0,-128.0,E-commerce,Listed,8,Loss-Making,Gurgaon,"Times Internet, Nexus Venture Partners, SoftBank Group",$1.361B,16.0,1361.0
+Icertis,Saas Contract Management,2009,2019,,$5 Billion,0.0,Private ,5000.0,,SaaS & Enterprise Tech,Private,10,Unknown,,,,,
+Ola Electric,Automotive,2017,2019,,$5 Billion,1.0,Private ,5000.0,,Automotive,Private,2,Unknown,Bengaluru,"SoftBank Group, Tiger Global Management, Matrix Partners India",$822.29M,20.0,822.29
+Druva,Saas Data Management,2008,2019,,$2 Billion,3.0,Acquired ,2000.0,,SaaS & Enterprise Tech,Acquired,11,Unknown,,,,,
+BigBasket,E-commerce Groceries,2011,2019,-$100 Million,$3.2 Billion,6.0,Acquired ,3200.0,-100.0,E-commerce,Acquired,8,Loss-Making,,,,,
+Rivigo,Logistics,2014,2019,-$21 Million,$1.05 Billion,0.0,Private ,1050.0,-21.0,Logistics,Private,5,Loss-Making,Gurgaon,"SAIF Partners India, Warburg Pincus, Trifecta Capital Advisors",$319.89M,7.0,319.89
+Lenskart,E-commerce Eyewear,2010,2019,-$13.4 Million,$4.5 Billion,2.0,Private ,4500.0,-13.4,E-commerce,Private,9,Loss-Making,New Delhi,"Chiratae Ventures, PremjiInvest, Softbank",$675.9M,18.0,675.9
+Dream11,Fantasy Sports,2008,2019,$37.8 Million,$8 Billion,0.0,Private ,8000.0,37.8,Other,Private,11,Profitable,Mumbai,"Kaalari Capital, Tencent Holdings, Steadview Capital",$1.165B,15.0,1165.0
+CitiusTech,Healthcare Technology,2005,2019,,$2.4 Billion,3.0,Private ,2400.0,,Healthtech,Private,14,Unknown,,,,,
+Freshworks,SaaS CRM,2010,2018,-$220 Million,$4.53 Billion,13.0,Listed ,4530.0,-220.0,SaaS & Enterprise Tech,Listed,8,Loss-Making,,,,,
+Udaan,E-commerce,2016,2018,-$220.9 Million,$3.1 Billion,0.0,Private ,3100.0,-220.9,E-commerce,Private,2,Loss-Making,Bengaluru,"DST Global, Lightspeed Venture Partners, Microsoft ScaleUp",$1.447B,21.0,1447.0
+OYO,Travel Tech (Hospitality),2013,2018,-$263 Million,$10 Billion,8.0,IPO-Bound ,10000.0,-263.0,Travel & Hospitality,IPO-Bound,5,Loss-Making,,,,,
+Paytm Mall,E-commerce,2017,2018,-$65.6 Million,,0.0,Private ,,-65.6,E-commerce,Private,1,Loss-Making,,,,,
