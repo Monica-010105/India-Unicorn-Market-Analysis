@@ -18,15 +18,25 @@ This project investigates India's unicorn startup landscape — businesses that 
 | 6 | Deliver strategic recommendations | Actionable insights for investors, founders, and policymakers |
 
 ## Project Structure
+
+```text
 unicorn-startup-analysis/
 │
-├── 01_data_cleaning.ipynb           - Data cleaning & standardisation
-├── 02_data_enrichment.ipynb         - Data enrichment via fuzzy matching
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   │   └── Data cleaning, preprocessing, and standardization
+│   └── 02_data_enrichment.ipynb
+│       └── Data enrichment using fuzzy matching techniques
 │
-├── Unicorn_Startups.csv             - Original raw dataset
-├── Unicorn_Companies.csv            - Global unicorn dataset (secondary source)
-├── Unicorn_Startups_Cleaned.csv     - Output from notebook 01
-├── Unicorn_Startups_Enriched.csv    - Output from notebook 02 (used in SQL & Tableau)
+├── data/
+│   ├── Unicorn_Startups.csv
+│   │   └── Original startup dataset
+│   ├── Unicorn_Companies.csv
+│   │   └── Global unicorn dataset (secondary source)
+│   ├── Unicorn_Startups_Cleaned.csv
+│   │   └── Cleaned dataset generated from Notebook 01
+│   └── Unicorn_Startups_Enriched.csv
+│       └── Final enriched dataset used for SQL and Tableau analysis
 │
 ├── sql_queries/
 │   ├── section1_market_overview.sql
@@ -36,6 +46,8 @@ unicorn-startup-analysis/
 │   └── section5_funding_valuation.sql
 │
 └── README.md
+    └── Project documentation and analysis summary
+```
 
 ## Datasets
 | Dataset | Source | Records |
