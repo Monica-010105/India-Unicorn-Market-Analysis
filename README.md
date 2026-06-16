@@ -17,6 +17,26 @@ This project investigates India's unicorn startup landscape — businesses that 
 | 5 | Analyse funding and valuation dynamics | Speed to unicorn, capital efficiency ratio, profitability vs valuation |
 | 6 | Deliver strategic recommendations | Actionable insights for investors, founders, and policymakers |
 
+## Project Structure
+unicorn-startup-analysis/
+│
+├── 01_data_cleaning.ipynb           - Data cleaning & standardisation
+├── 02_data_enrichment.ipynb         - Data enrichment via fuzzy matching
+│
+├── Unicorn_Startups.csv             - Original raw dataset
+├── Unicorn_Companies.csv            - Global unicorn dataset (secondary source)
+├── Unicorn_Startups_Cleaned.csv     - Output from notebook 01
+├── Unicorn_Startups_Enriched.csv    - Output from notebook 02 (used in SQL & Tableau)
+│
+├── sql_queries/
+│   ├── section1_market_overview.sql
+│   ├── section2_industry_analysis.sql
+│   ├── section3_geography.sql
+│   ├── section4_investor_analysis.sql
+│   └── section5_funding_valuation.sql
+│
+└── README.md
+
 ## Datasets
 | Dataset | Source | Records |
 |---------|--------|---------|
